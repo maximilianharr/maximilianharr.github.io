@@ -1,4 +1,4 @@
 # maximilianharr.github.io
 test github pages repo
 
-with some adaptions
+with some adaptions and links to [home](/home.md)
