@@ -14,3 +14,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Another Headline
 ... from my phone
+
+<span style="color:blue">some *blue* text</span>.
